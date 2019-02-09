@@ -1,4 +1,5 @@
 # Battleships
+This project was done on November 2015.
 
 •	This is a modified version of the game Battleships.
 •	The coordinates used for this game are all numeric.
